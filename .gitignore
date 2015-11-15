@@ -1,0 +1,9 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+
+# Tox directory
+.tox/
+
+# PyCharm configuration
+.idea/
